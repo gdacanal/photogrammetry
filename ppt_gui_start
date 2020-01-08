@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /home/fzea/photogrammetry/linux
+export LD_LIBRARY_PATH="/home/fzea/photogrammetry/linux/software/bundler/bin"
+python ppt_gui.py
