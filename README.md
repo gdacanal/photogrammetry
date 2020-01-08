@@ -1,14 +1,14 @@
 # photogrammetry
 photogrammetry python code
 
-################################################################################################
+##########################################################################
 ### Install on UBUNTU 18.04.3 LTS:
 ### sudo apt-get install python-qt4
 
 ### Clone from: https://github.com/steve-vincent/photogrammetry
 ### Edited "ppt-gui.py" and fixed indentations
 ### - Gustavo
-#################################################################################################
+##########################################################################
 
 
 ### This is a clone of Python Photogrammetry Toolbox (formerly osm-bundler). 
